@@ -1,0 +1,2 @@
+Resultado de la busqueda: 
+Valor buscado: 66 ELEMENTO ENCONTRADO POSICION: 3
