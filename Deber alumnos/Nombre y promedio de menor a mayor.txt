@@ -1,0 +1,7 @@
+En el aula hay 5 alumnos
+Lista de estudiantes con promedios de menor a mayor
+Jose 	11
+Samuel 	18
+Carlos 	19
+Gadiel 	20
+Mayra 	20
